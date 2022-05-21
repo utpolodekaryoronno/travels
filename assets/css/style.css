@@ -557,7 +557,7 @@ select{
 
 /**suscribe-area**/
 .container-bg{
-    background: url(figma-template/banner/banner2.png) no-repeat scroll center center / cover;
+    background: url('../images/banner/banner2.png') no-repeat scroll center center / cover;
     position: relative;
 }
 .suscribe-content{
