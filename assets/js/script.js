@@ -1,4 +1,9 @@
 $(document).ready(function(){
+
+  // menu 
+  $('.menu-bar').click(function(){
+    $('.mobile_menu').slideToggle();
+  });
   // owlCarousel
   $('.service').owlCarousel({
     margin:60,
